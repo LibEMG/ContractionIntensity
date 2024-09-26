@@ -1,0 +1,27 @@
+Citation: 
+Scheme, E., and Englehart K., "Training Strategies for Mitigating the Effect of Proportional Control on Classification in Pattern Recognition Based Myoelectric Control," Journal of Prosthetics and Orthotics, Vol. 25, No. 2, Apr. 2013, pp. 76-83, DOI: 10.1097/JPO.0b013e318289950b
+
+Channels: 8
+Sampling Rate: 1Khz, 16-bit
+
+Classes:
+No Movement
+Wrist Flexion
+Wrist Extension
+Wrist Pronation
+Wrist Supination
+Chuck Grip
+Hand Open
+
+Data Files contain:
+- 2 reps of max voluntary contraction
+- 4 reps of no feedback (Light, Medium, Hard)
+- 4 reps of % of MVC (approx with feedback; 20, 30, 40, 50, 60, 70, 80, Ramp from 20-80)
+
+Methodology:
+EMG data corresponding to seven classes of motion were collected from 10 healthy normally limbed subjects (7 male, 3 female) ranging in age from 25 to 50 years. Data were collected over two different sessions, conducted on separate days. All experiments were approved by the University of New Brunswick’s Research Ethics Board. 
+
+Subjects were fitted with a cuff made of thermoformable gel that was embedded with eight equally spaced pairs of stainless steel dome electrodes. The cuff was placed around the right forearm (the dominant side for all participants), at approximately one-third of the length of the forearm, around the area of largest circumference. A reference electrode (RedDot by 3M) was placed over the back of the hand.
+
+The eight channels of EMG were differentially amplified using remote AC electrodeamplifiers
+(BE328 by Liberating Technologies, Inc.), and low pass filtered at 450Hz with a 5th order Butterworth filter. Data were sampled with a sampling frequency of 1000Hz using a 16-bit analog-to-digital converter.
